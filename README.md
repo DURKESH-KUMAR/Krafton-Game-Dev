@@ -1,2 +1,2 @@
-# Krafton Game Dev
+# Krafton Game Dev Challenge
 

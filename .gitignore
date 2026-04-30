@@ -1,0 +1,95 @@
+# =========================
+# Unity Generated Folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# =========================
+# Memory Captures
+# =========================
+MemoryCaptures/
+
+# =========================
+# Asset Import Pipeline
+# =========================
+Library/ArtifactDB
+Library/SourceAssetDB
+
+# =========================
+# Visual Studio / Rider / VSCode
+# =========================
+.vs/
+.vscode/
+.idea/
+
+# VS / Rider files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Unity Cache Server
+# =========================
+Cache/
+
+# =========================
+# Crash Reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Android / iOS Build Files
+# =========================
+.gradle/
+*.apk
+*.aab
+*.unitypackage
+
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcuserdata
+
+# =========================
+# Addressables / Asset Bundles
+# =========================
+ServerData/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Ignore Backup Files
+# =========================
+*.bak
+*.backup
+*.old
+
+# =========================
+# Important: DO NOT IGNORE
+# =========================
+# These should be committed:
+#! Assets/
+#! Packages/
+#! ProjectSettings/
